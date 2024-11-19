@@ -1,0 +1,17 @@
+h1 {
+  font-size: 52px;
+  text-align: center;
+  color: rgb(12, 70, 12);
+}
+h2 {
+  font-size: 40px;
+  color: blue;
+  text-align: center;
+}
+h3 {
+  color: hsl(0, 39%, 20%);
+  font-size: 32px;
+}
+p, li {
+  font-size: 30px;
+}
