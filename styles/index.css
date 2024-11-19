@@ -7,4 +7,8 @@ h1 {
 }
 ul li {
   font-size: 32px;
+  display: inline-block;
+  margin-right: 20px;
+  background-color: lightblue;
+  padding: 8px;
 }
